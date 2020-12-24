@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desktop Application on Hadyan Pratama</title>
+    <link>https://hpratama.github.io/Hadyan_Portfolio/tags/desktop-application/</link>
+    <description>Recent content in Desktop Application on Hadyan Pratama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hpratama.github.io/Hadyan_Portfolio/tags/desktop-application/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Cryptography and Steganography Application</title>
+      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-14/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-14/</guid>
+      <description>Skills: Python, PIL, Numpy, PyQt5
+On the cryptography side I used Tiny Encryption Algorithm to do the image encryption. The user can input all image formats from .png, .jpg. and .bmp. TEA technique needs the secret key to do the encryption. This application can generate random secret key and then save it to use latter for decryption part. After the image success to be encrypted, this encrypted image used as the host image to hidden the main image in steganography side.</description>
+    </item>
+    
+    <item>
+      <title>Cryptography for Text Application with Affine Cipher Method</title>
+      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-13/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-13/</guid>
+      <description>Skills: Python, Numpy, Docx, PyQt5
+In this case, I build cryptography application based on Affine Cipher Method that can do text encryption and decryption. For the workflow, on the encryption side, the user can input the text data with .txt or .docx format and also can typing the text real time in this application. Than the user can choose rather to input the secret key or generate by this application. After that, the application shows the result and user can save the encrypted text with .</description>
+    </item>
+    
+  </channel>
+</rss>

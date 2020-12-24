@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hadyan Pratama</title>
+    <link>https://hpratama.github.io/Hadyan_Portfolio/tags/</link>
+    <description>Recent content in Tags on Hadyan Pratama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hpratama.github.io/Hadyan_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desktop Application</title>
+      <link>https://hpratama.github.io/Hadyan_Portfolio/tags/desktop-application/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/Hadyan_Portfolio/tags/desktop-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://hpratama.github.io/Hadyan_Portfolio/tags/machine-learning/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/Hadyan_Portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoscience</title>
+      <link>https://hpratama.github.io/Hadyan_Portfolio/tags/geoscience/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/Hadyan_Portfolio/tags/geoscience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
