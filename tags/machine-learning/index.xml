@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Hadyan Pratama</title>
-    <link>https://hpratama.github.io/Hadyan_Portfolio/tags/machine-learning/</link>
+    <link>https://hpratama.github.io/portfolio/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Hadyan Pratama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hpratama.github.io/Hadyan_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hpratama.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Real-time Crowd Detection on Lift</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-12/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-12/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-12/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-12/</guid>
       <description>Skills: Python, Deep Learning, Numpy, OpenCV, Yolo, PyQt5
 The model in this case I used from Yolo model. The Yolo model can detect multiple objects in the photo, and video perfectly. But, in this case, I only used the model to detect the person label. So to increase the accuracy on predict the person label, I add more person labeled data to the model, and retrain the Yolo model. After got the optimum accuracy with more than 1000 iterations, I build the desktop application for real-time detection with the new Yolo model as the backend.</description>
     </item>
     
     <item>
       <title>Real-time Emotion Recognition</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-11/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-11/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-11/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-11/</guid>
       <description>Skills: Python, Machine Learning, Deep Learning, OpenCV, Keras, PyQt5
 I used an open-source dataset Face Emotion Recognition to build the model first with Convolutional Neural Network algorithm. After got the optimum model that can accurately detect the emotion in the dataset, I bring the model into the real-time recognition with OpenCV library. After run successfully on real-time case, then I build the desktop application with PyQt5 library as the backend.</description>
     </item>
     
     <item>
       <title>Music Classification</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-10/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-10/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-10/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-10/</guid>
       <description>Skills: Python, Machine Learning, Numpy, Pandas, Scikit-Learn, Librosa, PyQt5
 In this case I used GTZAN music database as the dataset to build Machine Learning model. I extract the features like Mel Frequency Cepstral Coefficients (MFCC) from the music with Librosa library, and from this information the Support Vector Machine (SVM) algorithm can classified the music genres such as Pop, Jazz, Reggae, Rock, etc. In this case I also develop the desktop application, so the user can easily input the track and do the prediction.</description>
     </item>

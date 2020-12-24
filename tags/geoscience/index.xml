@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geoscience on Hadyan Pratama</title>
-    <link>https://hpratama.github.io/Hadyan_Portfolio/tags/geoscience/</link>
+    <link>https://hpratama.github.io/portfolio/tags/geoscience/</link>
     <description>Recent content in Geoscience on Hadyan Pratama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hpratama.github.io/Hadyan_Portfolio/tags/geoscience/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hpratama.github.io/portfolio/tags/geoscience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MS Excel Data Formatting for Mercury Injection Capillary Injection Program</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-9/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-9/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-9/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-9/</guid>
       <description>Skills: Python, Numpy, Pandas, Microsoft Excel, PyQt5
 Mercury Injection Capillary Injection Program (MICP) measurement report for one well and another well has the different data format from time to time and from one company and another company. And this measurement data is needed to be standardized so it can be read to another program. By doing this manually, it can cost a lot of time and effort. So I tried to develop a desktop application based on python that can be read all MICP report format universally and then standardized the data format so it could be read and the process by another program.</description>
     </item>
     
     <item>
       <title>Water Saturation Modeling with Archie’s Equation</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-8/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-8/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-8/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-8/</guid>
       <description>Skills: Python, Numpy, Matplotlib, PyQt5
 There are many methods to calculate water saturation. One of the methods is with Archie’s Equation. To calculate the water saturation with Archie’s Equation, it needs the information of some parameters which is saturation exponent, cementation exponent, water resistivity, true resistivity, and porosity. The equation is shown in the below.
   I tried to build the model based on this equation and do the visualization based on the change of some parameters in Python programming language, and then develop a desktop application that can do this modeling easily and more efficient for the user to change the parameters and see the effect of water saturation value in real-time.</description>
@@ -34,50 +34,50 @@ There are many methods to calculate water saturation. One of the methods is with
     
     <item>
       <title>Vp Change Calculation Based on Fluid Substitution</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-7/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-7/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-7/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-7/</guid>
       <description>Skills: Python, Numpy, PyQt5
 Fluid substitution is an important tool of the seismic rock physics analysis (e.g., AVO, 4D analysis), this method gives the geoscientist some insight on identification of fluid type that contained in reservoir. Fluid substitution is usually calculated using Gassmann’s equation. So, in this case, I tried to model the change of Vp along with changing some parameters based on Gassmann’s Equation. I develop the desktop application for the modeling technique so the user can easily know the Vp value after changing some parameters.</description>
     </item>
     
     <item>
       <title>Seismic Image Digitizing</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-5/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-5/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-5/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-5/</guid>
       <description>Skills: Python, Machine Learning, Numpy, OpenCV, Scikit-Learn, Matplotlib
 Seismic data are consists of several amplitude values from high to low. Today&amp;rsquo;s seismic data is still a lot in the form of images, it is because the old measurement technique. So to use this seismic data again it must be digitizing. One of the techniques that can digitize image in computation field is image segmentation using K Means Clustering. So, first I choose the k or number of cluster based on the pixel color of the image.</description>
     </item>
     
     <item>
       <title>Shear Wave Velocity Prediction using Machine Learning</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-4/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-4/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-4/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-4/</guid>
       <description>Skills: Python, Machine Learning, Deep Learning, Numpy, Lasio, Pandas, Matplotlib, Scikit-Learn
 As we know, Vp and Vs are the main physical properties that can determine lithology from well log data or seismic data. But, in the real world the Vs data rarely found on the well log data, it is because the measurement cost is too pricey. So in this case, I used to generate and predict the value of Vs from the model.</description>
     </item>
     
     <item>
       <title>Facies Clustering with Unsupervised Machine Learning</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-3/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-3/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-3/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-3/</guid>
       <description>Skills: Python, Machine Learning, Numpy, Lasio, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyQt5
 The well log data are consists of physical properties of measured rock or lithofacies on certain depth in earth. These physical properties are unique for each lithofacies. So, I used to run some clustering technique such as K Means Clustering and HDBSCAN to cluster some group with the same physical properties and tried to interpret the lithofacies group from this clustering result.</description>
     </item>
     
     <item>
       <title>Angle Versus Offset (AVO) Screening and Mapping </title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-2/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-2/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-2/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-2/</guid>
       <description>Skills: Python, Numpy, Pandas, Matplotlib, Seaborn
 To make a map from AVO data, first the data must be cleaning and condition. Because, the AVO data is unstructured and in one Common Mid Point (CMP) not be shooting from all angle. So, in this case I used Pandas to do data cleaning and formatting, until we can extract the map from this data.
 Then after that, we select the reference area that produce hydrocarbon.</description>
@@ -85,20 +85,20 @@ Then after that, we select the reference area that produce hydrocarbon.</descrip
     
     <item>
       <title>Fault Detection using Convolutional Neural Network</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-6/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-6/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-6/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-6/</guid>
       <description>Skills: Python, Deep Learning, Segyio, Numpy, Matplotlib, TensorFlow, Keras, Scikit-Learn, Mayavi
 Fault delineation is one key of the reservoir characterization. By interpret fault delineation, we can know is there any potential hydrocarbon trap and hydrocarbon migration. By doing this manually sometimes it can lead into miss-interpretation and not efficient. So in this case, I used Deep Learning model which is Convolutional Neural Network with UNet architecture to predict where is the fault delineation in my seismic data.</description>
     </item>
     
     <item>
       <title>Facies classification using Machine Learning</title>
-      <link>https://hpratama.github.io/Hadyan_Portfolio/projects/project-1/</link>
+      <link>https://hpratama.github.io/portfolio/projects/project-1/</link>
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hpratama.github.io/Hadyan_Portfolio/projects/project-1/</guid>
+      <guid>https://hpratama.github.io/portfolio/projects/project-1/</guid>
       <description>Skills: Python, Machine Learning, Numpy, Pandas, Scikit-Learn, PyQt5.
 In this case, I run several Machine Learning algorithms such as K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, and Random Forest to find optimum an optimum model that can be classified rock or lithology in the well based on their physical properties such as Gamma Ray, Neutron Density, Resistivity, etc.
   After that, we develop a desktop application that can run this optimum model, so it can be more user friendly and efficient using PyQt5 library in Python.</description>
