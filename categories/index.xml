@@ -5,10 +5,6 @@
     <link>https://hpratama.github.io/portfolio/categories/</link>
     <description>Recent content in Categories on Hadyan Pratama</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://hpratama.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://hpratama.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -6,10 +6,46 @@
     <description>Recent content in Hadyan&#39;s Portfolio on Hadyan Pratama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hpratama.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Recommendation using BERT Word-embedding</title>
+      <link>https://hpratama.github.io/portfolio/projects/project-18/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/portfolio/projects/project-18/</guid>
+      <description>Skills: Python, Numpy, Pandas, NLTK, Sastrawi, fast-bert, PyQt5
+  Sometimes when we want to read some books on a specific topic or field, we confuse which book is good, and it will end with not read a book at all. Here, I develop a recommender system that suggests you a book to read based on the synopsis or description you want. This recommendation system uses the BERT algorithm to create word embedding and train and test the model to find the book that matches user preference entered by the synopsis or description.</description>
+    </item>
     
-	<atom:link href="https://hpratama.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter Spam Classification with NLP Methods</title>
+      <link>https://hpratama.github.io/portfolio/projects/project-17/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/portfolio/projects/project-17/</guid>
+      <description>Skills: Python, Numpy, Pandas, NLTK, Sastrawi, PyQt5
+  When you search for something on Twitter or maybe want to see the trending topic, it usually appears a tweet that is not related to the hashtag or topic you search for. In the end, we don&amp;rsquo;t see the real tweet that has the same context as we search for. So, here we tried to make a classifier system that can distinguish the tweet spam or ham.</description>
+    </item>
     
+    <item>
+      <title>Coffee Beans Detection using ANFIS</title>
+      <link>https://hpratama.github.io/portfolio/projects/project-16/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/portfolio/projects/project-16/</guid>
+      <description>Skills: Python, Numpy, Pandas, tensorflow, OpenCV, PyQt5
+  Today object detection is the hottest project in computer vision fields. Object detection is a computer vision technique that allows us to identify and locate objects in an image or video. But in this project, I tried another method to perform object detection. I used one of the Artificial Intelligence method, ANFIS. ANFIS stands for Adaptive Neuro-Fuzzy Inference System. Combining the neural network and fuzzy logic can give advantages in making predictions more accurate based on the learning&amp;rsquo;s historical data.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Website Phising Detection</title>
+      <link>https://hpratama.github.io/portfolio/projects/project-15/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/portfolio/projects/project-15/</guid>
+      <description>Skills: Python, Numpy, Pandas, Sklearn, PyQt5
+  Website phishing is one of the threats that may occur when we surf the internet. This website phishing can collect our private data like telephone number, bank account, credit card information, and other credentials data. Here I tried to develop a detection system that can detect any suspicious website that may try to do phishing. The idea is I collect the website URL that labelled as phishing and a legitimate website URL.</description>
+    </item>
     
     <item>
       <title>Image Cryptography and Steganography Application</title>

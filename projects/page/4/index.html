@@ -6,7 +6,7 @@
     
     <title>Projects | Hadyan Pratama</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.74.3" />
+    <meta name="generator" content="Hugo 0.79.1" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -165,13 +165,14 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Projects</span>
     <h1 class="f3 near-black">
-      <a href="https://hpratama.github.io/portfolio/projects/project-4/" class="link black dim">
-        Shear Wave Velocity Prediction using Machine Learning
+      <a href="https://hpratama.github.io/portfolio/projects/project-8/" class="link black dim">
+        Water Saturation Modeling with Archie’s Equation
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Skills: Python, Machine Learning, Deep Learning, Numpy, Lasio, Pandas, Matplotlib, Scikit-Learn
-As we know, Vp and Vs are the main physical properties that can determine lithology from well log data or seismic data. But, in the real world the Vs data rarely found on the well log data, it is because the measurement cost is too pricey. So in this case, I used to generate and predict the value of Vs from the model.
+      Skills: Python, Numpy, Matplotlib, PyQt5
+There are many methods to calculate water saturation. One of the methods is with Archie’s Equation. To calculate the water saturation with Archie’s Equation, it needs the information of some parameters which is saturation exponent, cementation exponent, water resistivity, true resistivity, and porosity. The equation is shown in the below.
+  I tried to build the model based on this equation and do the visualization based on the change of some parameters in Python programming language, and then develop a desktop application that can do this modeling easily and more efficient for the user to change the parameters and see the effect of water saturation value in real-time.
     </div>
   </div>
 </div>
@@ -181,13 +182,13 @@ As we know, Vp and Vs are the main physical properties that can determine lithol
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Projects</span>
     <h1 class="f3 near-black">
-      <a href="https://hpratama.github.io/portfolio/projects/project-3/" class="link black dim">
-        Facies Clustering with Unsupervised Machine Learning
+      <a href="https://hpratama.github.io/portfolio/projects/project-10/" class="link black dim">
+        Music Classification
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Skills: Python, Machine Learning, Numpy, Lasio, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyQt5
-The well log data are consists of physical properties of measured rock or lithofacies on certain depth in earth. These physical properties are unique for each lithofacies. So, I used to run some clustering technique such as K Means Clustering and HDBSCAN to cluster some group with the same physical properties and tried to interpret the lithofacies group from this clustering result.
+      Skills: Python, Machine Learning, Numpy, Pandas, Scikit-Learn, Librosa, PyQt5
+In this case I used GTZAN music database as the dataset to build Machine Learning model. I extract the features like Mel Frequency Cepstral Coefficients (MFCC) from the music with Librosa library, and from this information the Support Vector Machine (SVM) algorithm can classified the music genres such as Pop, Jazz, Reggae, Rock, etc. In this case I also develop the desktop application, so the user can easily input the track and do the prediction.
     </div>
   </div>
 </div>
@@ -197,14 +198,13 @@ The well log data are consists of physical properties of measured rock or lithof
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Projects</span>
     <h1 class="f3 near-black">
-      <a href="https://hpratama.github.io/portfolio/projects/project-2/" class="link black dim">
-        Angle Versus Offset (AVO) Screening and Mapping 
+      <a href="https://hpratama.github.io/portfolio/projects/project-7/" class="link black dim">
+        Vp Change Calculation Based on Fluid Substitution
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Skills: Python, Numpy, Pandas, Matplotlib, Seaborn
-To make a map from AVO data, first the data must be cleaning and condition. Because, the AVO data is unstructured and in one Common Mid Point (CMP) not be shooting from all angle. So, in this case I used Pandas to do data cleaning and formatting, until we can extract the map from this data.
-Then after that, we select the reference area that produce hydrocarbon.
+      Skills: Python, Numpy, PyQt5
+Fluid substitution is an important tool of the seismic rock physics analysis (e.g., AVO, 4D analysis), this method gives the geoscientist some insight on identification of fluid type that contained in reservoir. Fluid substitution is usually calculated using Gassmann’s equation. So, in this case, I tried to model the change of Vp along with changing some parameters based on Gassmann’s Equation. I develop the desktop application for the modeling technique so the user can easily know the Vp value after changing some parameters.
     </div>
   </div>
 </div>
@@ -234,10 +234,13 @@ Then after that, we select the reference area that produce hydrocarbon.
     <a class="page-link" href="https://hpratama.github.io/portfolio/projects/page/5/">5</a>
   </li>
   <li class="page-item">
+    <a class="page-link" href="https://hpratama.github.io/portfolio/projects/page/6/">6</a>
+  </li>
+  <li class="page-item">
     <a href="https://hpratama.github.io/portfolio/projects/page/5/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
   </li>
   <li class="page-item">
-    <a href="https://hpratama.github.io/portfolio/projects/page/5/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <a href="https://hpratama.github.io/portfolio/projects/page/6/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>
 </ul>
 
@@ -247,7 +250,7 @@ Then after that, we select the reference area that produce hydrocarbon.
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://hpratama.github.io/portfolio/" >
-    &copy;  Hadyan Pratama 2020 
+    &copy;  Hadyan Pratama 2021 
   </a>
     <div>
 
